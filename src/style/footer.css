@@ -1,0 +1,36 @@
+
+.footer{
+    margin-top: 200px;
+    padding-bottom: 30px;
+}
+.footer_top{
+    display: flex;
+}
+.footer p{
+    padding: 5px 0px;
+    opacity: 0.6;
+}
+.cnhan{
+    display: flex;
+    margin-top: 10px;
+}
+.cnhan img{
+    margin: 0;
+}
+.mxh{
+    display: flex;
+}
+.mxh img{
+    margin: 0;
+    padding: 0 5px;
+}
+.download{
+    display: flex;
+    margin-top: 10px;
+}
+.support{
+    margin: 0;
+}
+.f img{
+    max-width: 50px;
+}
